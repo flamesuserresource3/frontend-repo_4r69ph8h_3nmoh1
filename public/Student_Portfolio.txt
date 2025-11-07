@@ -1,0 +1,40 @@
+Student Portfolio - Alex Doe
+
+Summary
+Alex is a Computer Science student passionate about building delightful, interactive products. Focused on web technologies, 3D experiences, and user-centric design.
+
+Contact
+Email: alex.student@example.com
+Website: https://example.com
+LinkedIn: https://linkedin.com/in/alex-student
+GitHub: https://github.com/alex-student
+
+Achievements
+- 1st place in university 24h hackathon (2024) for an AI-powered study planner
+- Dean's List (2023) for academic excellence (GPA 3.9+)
+- Open source contributor to UI libraries and docs
+
+Projects
+1) Interactive Portfolio
+   - React + Spline + Tailwind
+   - A playful 3D hero with clean sections for projects and achievements
+
+2) Study Planner
+   - FastAPI + MongoDB + React
+   - Suggests optimal study sessions based on schedules and goals
+
+3) UI Components
+   - Reusable, accessible components inspired by shadcn/ui
+
+Skills
+- Frontend: React, Tailwind CSS, Framer Motion
+- Backend: FastAPI, Node.js
+- Databases: MongoDB
+- Tools: Git, Figma, Spline
+
+Education
+B.S. in Computer Science (Expected 2026)
+University of Somewhere
+
+Notes
+This document is included for download from the website navigation.
